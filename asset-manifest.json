@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ellies/static/css/main.71f68c60.css",
+    "main.js": "/Ellies/static/js/main.836a5526.js",
+    "static/media/pic7.jpg": "/Ellies/static/media/pic7.cddf0723d39d97f00b79.jpg",
+    "static/media/pic5.jpg": "/Ellies/static/media/pic5.92f50fb84035557326ac.jpg",
+    "static/media/pic14.jpeg": "/Ellies/static/media/pic14.c565290971aac6c21ec9.jpeg",
+    "static/media/pic7.jpeg": "/Ellies/static/media/pic7.82f53962890f6886884d.jpeg",
+    "static/media/pic26.jpeg": "/Ellies/static/media/pic26.f6575eb230a5f8ce080e.jpeg",
+    "static/media/pic28.jpeg": "/Ellies/static/media/pic28.a326f636e07e214ec48c.jpeg",
+    "static/media/pic2.jpg": "/Ellies/static/media/pic2.8bf8078fc8bbc9dc477e.jpg",
+    "index.html": "/Ellies/index.html",
+    "main.71f68c60.css.map": "/Ellies/static/css/main.71f68c60.css.map",
+    "main.836a5526.js.map": "/Ellies/static/js/main.836a5526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71f68c60.css",
+    "static/js/main.836a5526.js"
+  ]
+}
