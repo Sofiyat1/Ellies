@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ellies/static/css/main.71f68c60.css",
-    "main.js": "/Ellies/static/js/main.836a5526.js",
+    "main.css": "/Ellies/static/css/main.a1b68e8e.css",
+    "main.js": "/Ellies/static/js/main.a6056310.js",
     "static/media/pic7.jpg": "/Ellies/static/media/pic7.cddf0723d39d97f00b79.jpg",
     "static/media/pic5.jpg": "/Ellies/static/media/pic5.92f50fb84035557326ac.jpg",
     "static/media/pic14.jpeg": "/Ellies/static/media/pic14.c565290971aac6c21ec9.jpeg",
@@ -10,11 +10,11 @@
     "static/media/pic28.jpeg": "/Ellies/static/media/pic28.a326f636e07e214ec48c.jpeg",
     "static/media/pic2.jpg": "/Ellies/static/media/pic2.8bf8078fc8bbc9dc477e.jpg",
     "index.html": "/Ellies/index.html",
-    "main.71f68c60.css.map": "/Ellies/static/css/main.71f68c60.css.map",
-    "main.836a5526.js.map": "/Ellies/static/js/main.836a5526.js.map"
+    "main.a1b68e8e.css.map": "/Ellies/static/css/main.a1b68e8e.css.map",
+    "main.a6056310.js.map": "/Ellies/static/js/main.a6056310.js.map"
   },
   "entrypoints": [
-    "static/css/main.71f68c60.css",
-    "static/js/main.836a5526.js"
+    "static/css/main.a1b68e8e.css",
+    "static/js/main.a6056310.js"
   ]
 }
