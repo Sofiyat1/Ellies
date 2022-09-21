@@ -3,6 +3,7 @@ import{
   BrowserRouter as Router,
   Routes,
   Route,
+  Navigate,
   Link
 } from 'react-router-dom'
 import Login from './page/Login';
@@ -28,15 +29,16 @@ function App() {
           <div className='top-left'>
             <ul>
             <li>
-            <Link to="/">Home</Link>|{" "}
+            <Link to="/">Home</Link>
           </li>
             </ul>
       </div>
   <Routes>
-      <Route exact path='/Login' element={< Login />}> </Route>     
-      <Route index element={<Home />} />     
-      <Route exact path='/Dashboard' element={< Dashboard/>}> </Route>
-      <Route exact path='/Signup' element={< Signup/>}> </Route>
+      <Route path = '/' element={<Navigate to ='/Home' /> } />
+      <Route path='/Home' element={< Home />}> </Route>     
+     <Route path='/Login' element={< Login />}> </Route>     
+      <Route path='/Dashboard' element={< Dashboard/>}> </Route>
+      <Route path='/Signup' element={< Signup/>}> </Route>
   </Routes> 
     </Router> 
     <footer>Softwork 2022</footer>
