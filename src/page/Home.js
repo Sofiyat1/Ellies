@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 /*import React from 'react';*/
 import './Foodapp.css';
+
 import pic28 from './Assets/pic28.jpeg'
 import pic14 from './Assets/pic14.jpeg'
 import pic7 from './Assets/pic7.jpeg'
@@ -18,7 +19,7 @@ const Home = () => {
         alert('Welcome to Ellies')
       }, 
       [])
-    return <div className='foo'>
+    return  <div className='foo'>
         <div className='bg'>
         <img src={pic28} alt="Ellies" width="100%"/>
         <div className='centered'>
@@ -69,9 +70,7 @@ const Home = () => {
         anywhere else. That's how we Sea food Different  jhjhdjhfjhhjjdhjkgdjjhbjhajajajhjdcbbuiihnbuiiwehoqjhuqoqwj
         eheuryeruiquehrulrweuhqqunoiwryyuwnduyrh</p> 
         <h5>Thank you For Coming ! 😊</h5>
+        
 </div>;
 }
-
-
-
 export default Home;
